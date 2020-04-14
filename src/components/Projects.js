@@ -204,6 +204,49 @@ class Projects extends Component {
             </div>
           </div>
         </div>
+        <div class="row">
+          <div class="col s12 m12 l12">
+            <div class="card hoverable">
+              <div class="card-image waves-effect waves-block waves-light">
+                <img
+                  class="activator"
+                  src="https://www.riskified.com/blog/wp-content/uploads/2017/01/BlogBanner_89_sneakers-info-01-1.png"
+                  alt="Eduardo Salcedo's Shoe App"
+                />
+              </div>
+              <div class="card-content">
+                <span class="card-title activator grey-text text-darken-4">
+                  <i class="material-icons right">more_vert</i>
+                </span>
+                <p>Sneaker Collection App</p>
+                <p class="right">
+                  <a
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    href="https://github.com/esalcedo94/project4"
+                  >
+                    Code
+                  </a>
+                </p>
+              </div>
+              <div class="card-reveal">
+                <span class="card-title grey-text text-darken-4">
+                  Sneaker Collection App
+                  <i class="material-icons right">close</i>
+                </span>
+                <p class="center-align project-info">
+                  A Ruby-on-Rails back-end using postgresql for our database and
+                  incorporated full CRUD. For the front-end used React.
+                  <span>
+                    Also incorporated Bootstrap CSS framework for styling the
+                    buttons, while we decided to style the rest of the page
+                    manually.
+                  </span>
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
       </div>
     );
   }
