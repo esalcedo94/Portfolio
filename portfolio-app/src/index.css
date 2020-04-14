@@ -1,0 +1,55 @@
+body {
+  background-image: url("https://3.bp.blogspot.com/-y-cEN-Ui7rs/UtJtIb74X8I/AAAAAAAAGdg/5i1zN81uZ0g/s1600/Plain-design-pattern-dark-background-image-HD-resolution-latest-pack.jpg");
+  font-family: "Merienda", cursive;
+}
+.card-image .home-image {
+  display: block;
+  margin-top: 2em;
+  margin-left: auto;
+  margin-right: auto;
+  width: 45%;
+  border-radius: 20px;
+}
+
+.card .card-content {
+  background-color: #cbbfbb;
+}
+
+.card .card-content h3 {
+  margin-top: 0;
+}
+@media only screen and (max-width: 768px) {
+  .card .card-image .about-images {
+    display: block;
+    margin-top: auto;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+    height: 100%;
+
+  }
+
+  .card .card-stacked .card-content .abouts {
+    font-size: 8px;
+  }
+}
+
+/* p{
+  text-align: left;
+  margin-left: 15em;
+  color: black;
+  font-family: 'EB Garamond', serif;
+  font-size: 22px; */
+/* } */
+/* .card-title{
+  color: black;
+  text-align: right;
+  font-weight: bold;
+  margin-left: 9em;
+  font-size: 34px;
+} */
+
+/* .card-img {
+  width: 20em;
+  align-self: right;
+} */
