@@ -18,6 +18,19 @@ body {
 .card .card-content h3 {
   margin-top: 0;
 }
+
+.card .card-reveal .project-info {
+  font-size: 3vw;
+}
+
+p span{
+  display: block;
+}
+
+.card .card-content p{
+  display: inline;
+}
+
 @media only screen and (max-width: 768px) {
   .card .card-image .about-images {
     display: block;
@@ -32,6 +45,7 @@ body {
   .card .card-stacked .card-content .abouts {
     font-size: 8px;
   }
+
 }
 
 /* p{
