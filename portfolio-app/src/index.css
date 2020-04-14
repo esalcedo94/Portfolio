@@ -10,6 +10,9 @@ body {
   width: 45%;
   border-radius: 20px;
 }
+.sidenav{
+  background-color: #b0bec5;
+}
 
 .card .card-content {
   background-color: #cbbfbb;

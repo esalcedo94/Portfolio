@@ -15,9 +15,9 @@ class About extends Component {
           <div class="col s12 m12 l12">
             <div class="card">
               <div class="card-content about-content">
-                <h3 class="center-align card-title">Software Engineer</h3>
+                <h3 class="center-align white-text card-title">Software Engineer</h3>
                 <p class="center-align">
-                  Hello! My name is Eduardo Salcedo. I am a San Diego software
+                  Hello! My name is Eduardo Salcedo. I am a San Diego based software
                   engineer. I have a passion for solving problems and developing
                   software with intuitive design and functionality. My
                   experience as an intern has taught me how to learn from others
@@ -39,6 +39,7 @@ class About extends Component {
                 <img
                   class="about-images"
                   src="https://i.imgur.com/PbsUN1d.jpg"
+                  alt="Eduardo Salcedo Software Engineer"
                 />
               </div>
               <div class="card-stacked">
@@ -70,7 +71,8 @@ class About extends Component {
                 </div>
               </div>
               <div class="card-image">
-                <img class="about-images" src="https://i.imgur.com/iLb3IeP.jpg" />
+                <img class="about-images" src="https://i.imgur.com/iLb3IeP.jpg" alt="Eduardo Salcedo Software Engineer"
+ />
               </div>
             </div>
           </div>
