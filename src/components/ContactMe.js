@@ -17,6 +17,7 @@ class ContactMe extends Component {
                 frontend, or backend positions. If you have any questions,
                 comments or concerns I can be contacted via email below or
                 directly at 1-760-500-8290
+                <span>The link below is my résumé</span>
                 <span>Thank you</span>
               </p>
               <ReactContactForm
@@ -25,7 +26,7 @@ class ContactMe extends Component {
               />
             </div>
             <div class="card-action">
-            <Link to="/files/resume2020_.pdf" target="_blank" download>Resume</Link>
+            <Link to="/files/resume2020_.pdf" target="_blank" download>Résumé</Link>
             </div>
           </div>
         </div>
