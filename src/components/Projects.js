@@ -24,7 +24,7 @@ class Projects extends Component {
                     rel="noopener noreferrer"
                     href="https://rick-and-morty-tracker.herokuapp.com"
                   >
-                    Rick and Morty Character Tracker
+                    Rick and Morty Characters
                   </a>
                 </p>
                 <p class="right">
@@ -89,7 +89,7 @@ class Projects extends Component {
               </div>
               <div class="card-reveal">
                 <span class="card-title grey-text text-darken-4">
-                  Lacrosse Game scores
+                  Lacrosse Game Scores
                   <i class="material-icons right">close</i>
                 </span>
                 <p class="center-align project-info">
@@ -139,7 +139,7 @@ class Projects extends Component {
               </div>
               <div class="card-reveal">
                 <span class="card-title grey-text text-darken-4">
-                  Meal Recipes
+                  Social Butterfly App
                   <i class="material-icons right">close</i>
                 </span>
                 <p class="center-align project-info">
