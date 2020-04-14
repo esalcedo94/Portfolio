@@ -43,8 +43,8 @@ p span{
     margin-top: 4em;
     margin-left: auto;
     margin-right: auto;
-    width: 1vw;
-    height: 1vh;
+    width: 4vw;
+    height: 4vh;
   }
 
   .card .card-stacked .card-content .abouts {
