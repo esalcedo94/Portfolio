@@ -140,7 +140,7 @@ class Projects extends Component {
                       Social Butterfly App
                       <i class="material-icons right">close</i>
                     </span>
-                    <p class="center-align project-flow-text">
+                    <p class="center-align flow-text">
                       A full stack social media type app that uses MongoDB,
                       Express, Mongoose, Router and React
                       <span>
