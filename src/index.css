@@ -1,6 +1,6 @@
 body {
   background-image: url("https://3.bp.blogspot.com/-y-cEN-Ui7rs/UtJtIb74X8I/AAAAAAAAGdg/5i1zN81uZ0g/s1600/Plain-design-pattern-dark-background-image-HD-resolution-latest-pack.jpg");
-  font-family: "Merienda", cursive;
+  font-family: 'Roboto', sans-serif;
 }
 .card-image .home-image {
   display: block;
@@ -22,8 +22,12 @@ body {
   margin-top: 0;
 }
 
-.card .card-reveal .project-info {
-  font-size: 3vw;
+#mobile-nav{
+  position: fixed;
+}
+
+.email-form{
+  background-color: white;
 }
 
 p span{

@@ -2,7 +2,6 @@ import React, { Component } from "react";
 import ReactContactForm from "react-mail-form";
 import { Link } from "react-router-dom";
 
-
 class ContactMe extends Component {
   render() {
     return (
@@ -23,10 +22,13 @@ class ContactMe extends Component {
               <ReactContactForm
                 to="esalcedo63@gmail.com"
                 titlePlaceholder="Subject"
+                className="input-field email-form"
               />
             </div>
             <div class="card-action">
-            <Link to="/files/resume2020_.pdf" target="_blank" download>Résumé</Link>
+              <Link to="/files/resume2020_.pdf" target="_blank" download>
+                Résumé
+              </Link>
             </div>
           </div>
         </div>
